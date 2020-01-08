@@ -1,4 +1,4 @@
 code:
 	g++ code.cpp -o mycode
-	./write
+	./mycode
 	python3 plot.py
